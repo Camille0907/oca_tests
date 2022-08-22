@@ -1,0 +1,4 @@
+[submodule "Camille0907/OCA/purchase-workflow"]
+	path = Camille0907/OCA/purchase-workflow
+	url = git@github.com:Camille0907/purchase-workflow.git
+	branch = 15.0-mig-purchase_requisition_tier_validation
